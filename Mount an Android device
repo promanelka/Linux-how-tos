@@ -1,0 +1,11 @@
+# The package manager used is for Red Hat distros.
+# Adapt to suite your preferred distro.
+
+# Install MTP packages
+sudo dnf install gvfs-mtp mtp-tools libmtp
+
+# Plug in the USB cable connected to your android device
+# Select USB for file transfer (MTP)
+
+# Open Files or your distro file manager.
+# Your device should appear as "Android"
