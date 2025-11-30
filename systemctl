@@ -1,0 +1,2 @@
+# Reload modified fstab file
+systemctl daemon-reload
